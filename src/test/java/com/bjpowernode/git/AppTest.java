@@ -18,6 +18,8 @@ public class AppTest
         assertTrue( true );
         //第一次修改代码
         System.out.println("aaaaaaaaa");
+        //第二次更新
+        System.out.println("bbbbbbb");
 
     }
 }
